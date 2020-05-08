@@ -1,4 +1,4 @@
-# LocationMate
+# FindMate
 
 ### A hassle-free way to find your friends!
 
